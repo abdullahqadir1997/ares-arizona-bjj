@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Don't index the post-booking thank-you page (already noindex'd in HTML, but reinforce)
+Disallow: /thank-you.html
+
+Sitemap: https://aresazbjj.com/sitemap.xml
